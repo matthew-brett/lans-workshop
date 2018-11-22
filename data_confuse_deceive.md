@@ -21,20 +21,6 @@ Available at
 
 [@huff1954lie]
 
-# The effect of rewards
-
-> In the 1820s, the Society for Progressive Education in New York introduced
-> a system of redeemable tokens as rewards for correct school work and a system
-> of fines for various offenses in the school. This was done to discourage
-> corporal punishment, the most common means of "motivating students" in that
-> day, the use of which the society disapproved. This early version of the
-> "token economy" was abandoned in the 1830s because the trustees of the
-> society came to feel that "they were more often rewarding the cunning than
-> the meritorious" and that the system of tokens "fostered a mercenary spirit"
-> (Ravich, 1974).
-
-[@condry1977enemies]
-
 # "Research Excellence" Framework
 
 > Over thirty years the RAE / REF has supported a sustained improvement in the
@@ -67,7 +53,7 @@ in 1986.
 
 [@charlton2007scientometric]
 
-# The "Teaching Excellence" Framework
+# "Teaching Excellence" Framework
 
 * student satisfaction using the teaching on course, assessment and feedback
   and academic support scales from the National Student Survey;
@@ -184,6 +170,10 @@ questionnaire](https://www.documentcloud.org/documents/2840632-Sample-Risk-Asses
 ![](images/compas_results.png){width=100%}
 
 [COMPAS results](https://www.documentcloud.org/documents/2839240-Sample-Risk-Assessment-COMPAS-Results.html)
+
+# Background - a crash course on machine learning
+
+See <https://www.inferentialthinking.com/chapters/17/Classification>
 
 # Prediction errors by race
 
