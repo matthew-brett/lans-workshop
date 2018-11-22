@@ -132,11 +132,6 @@ paper](https://www.gov.uk/government/publications/higher-education-success-as-a-
 
 [@oneil2016weapons]
 
-# Garbage in, Gospel out
-
-From [Garbage in, garbage
-out](https://en.wikipedia.org/wiki/Garbage_in%2C_garbage_out)
-
 # Risk scores for re-offending
 
 ![](images/propublica.png){width=100%}
@@ -179,8 +174,12 @@ See <https://www.inferentialthinking.com/chapters/17/Classification>
 
 ![](images/black_white_reoffend.png){width=100%}
 
-[Analysis
-description](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
+See this [description of the analysis](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm).
+
+# Garbage in, Gospel out
+
+From [Garbage in, garbage
+out](https://en.wikipedia.org/wiki/Garbage_in%2C_garbage_out)
 
 # Assessing risk scores
 
