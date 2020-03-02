@@ -2,16 +2,13 @@
 # YAML metadata
 title: Using data to confuse and deceive
 author: Matthew Brett
-bibliography: data.bib
+bibliography: [workshop.bib, data-science-bib/data_science.bib]
+linkcolor: blue
+urlcolor: blue
 <#ifndef HANDOUT>
 suppress-bibliography: true
 <#endif>
 ---
-
-# Handout
-
-Available at
-<https://github.com/matthew-brett/lans-workshop/blob/master/data_confuse_deceive_handout.pdf>
 
 # How to lie with statistics
 
@@ -200,10 +197,7 @@ Eric Holder, US Attorney General, 2014 (quoted in Propublica).
 
 # Is this the end?
 
-Yes, it's the end of the workshop.
-
-All material for these slides at
-<https://github.com/matthew-brett/lans-workshop>
+Yes, it's the end.
 
 <#ifdef HANDOUT>
 # References
